@@ -1,1 +1,1 @@
-1-who_am_i
+This is the permission scripts for my alu-shell
